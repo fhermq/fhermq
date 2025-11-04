@@ -57,7 +57,6 @@ My career has been rooted in leading cloud adoption (AWS), driving DevOps and CI
 ### 📫 Connect
 
 - LinkedIn: [linkedin.com/in/fhermq](https://linkedin.com/in/fhermq)
-- Email: **fhermq@gmail.com**
 
 ---
 
